@@ -3,7 +3,7 @@
 
 
 ##  O Projekcie
-Projekt powstał, aby odpowiedzieć na fundamentalne pytanie każdego mola książkowego i wydawcy: **czy istnieją mierzalne czynniki, które gwarantują sukces książki?** Korzystając z danych z serwisu Goodreads (stan na maj 2024), zbadałam zależności między cechami fizycznymi książki (liczba stron), jej przynależnością gatunkową a odbiorem przez czytelników.
+### Projekt powstał, aby odpowiedzieć na fundamentalne pytanie każdego mola książkowego i wydawcy: **czy istnieją mierzalne czynniki, które gwarantują sukces książki?** Korzystając z danych z serwisu Goodreads (stan na maj 2024), zbadałam zależności między cechami fizycznymi książki (liczba stron), jej przynależnością gatunkową a odbiorem przez czytelników.
 ---
 
 ##  Wykorzystanie AI (Prompt Engineering)
